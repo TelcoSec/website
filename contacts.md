@@ -8,4 +8,3 @@ Insert your contact details or a contact form here.
 
 ## RFS Contacts
 
-{{ site.linkedin_badge }}

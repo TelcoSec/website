@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Networking for Pentesters"
+title:  "4G LTE"
 date:   2023-06-13 10:51:47 +0530
 image: /images/Networking.png
-categories: [Pentesting, Networking]
+categories: [4G, LTE]
 ---
 Networking is the backbone of our digital world, connecting devices, systems, and people across the globe. In this course, we will delve into the fundamental concepts, protocols, and technologies that enable communication and data exchange between computers and other devices. 
 You will gain a deep understanding of how data flows through networks, how devices communicate, and how the internet itself operates.

@@ -2,11 +2,11 @@
 title: TelcoSec Ops - Telecom Security
 email: git@telco-sec.com
 description: > # this means to ignore newlines until "baseurl:"
-  PopDocs is a Free Cyber security content.
+  Telecom Security Study and Research
   
   
 #baseurl: "/cards" # the subpath of your site, e.g. /blog
-url: "https://telco-sec.com//" # the base hostname & protocol for your site
+url: "https://telco-sec.com/" # the base hostname & protocol for your site
 
 #sidebar
 default-image: webjeda-logo-big.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
@@ -17,7 +17,7 @@ built-by: rfs
 
 copyright:
    name: TelcoSec
-   link: 'https://telco-sec.com//'
+   link: 'https://telco-sec.com/'
 
 # Build settings
 permalink: /:title/

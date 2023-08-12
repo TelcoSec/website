@@ -23,7 +23,7 @@ copyright:
 permalink: /:title/
 paginate: 6
 paginate_path: /page:num/
-
+permalink: /:categories/:title/
 # Tracker
 analytics: G-SDPPC95R4J
 

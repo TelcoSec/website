@@ -25,7 +25,7 @@ paginate: 6
 paginate_path: /page:num/
 
 # Tracker
-analytics: G-SDPPC95R4J
+
 
 # Comments
 disqus: yes
@@ -77,3 +77,10 @@ defaults:
 google:
   tag_manager:
     container_id: GTM-5DGDDTS8
+analytics: G-SDPPC95R4J
+
+darkmode:
+  enable_dark_mode: true
+  show_dark_mode_toggle_in_header: true 
+  show_dark_mode_toggle_in_bottom: false # displays the dark mode toggle switch in the footer and allows the user to manually change the mode
+  show_dark_mode_toggle_in_mobile_menu: false # displays the dark mode toggle switch in the footer and allows the user to manually change the mode

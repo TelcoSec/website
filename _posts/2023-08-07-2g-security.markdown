@@ -5,8 +5,9 @@ description: "Ensure comprehensive 2G security for your network with our advance
 date:   2023-08-07 10:00:00 +0530
 image: /images/2g-gsm-security.png
 categories: [2G, GSM]
+subscribe: true
 meta_description: "Ensure comprehensive 2G security for your network with our advanced solutions. Safeguard your legacy infrastructure with robust security measures designed to protect against modern cyber threats and vulnerabilities in the evolving digital landscape."
-meta_title: "2G GSM Security for pentesters"
+meta_title: 2G GSM Security for pentesters
 ---
 Ensure comprehensive 2G security for your network with our advanced solutions. Safeguard your legacy infrastructure with robust security measures designed to protect against modern cyber threats and vulnerabilities in the evolving digital landscape.
 

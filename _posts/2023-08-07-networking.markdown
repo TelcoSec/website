@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "4G LTE"
+title:  "4G Security"
 date:   2023-06-13 10:51:47 +0530
-image: /images/Networking.png
+image: /images/4g-lte-security.png
 categories: [4G, LTE]
 ---
 Networking is the backbone of our digital world, connecting devices, systems, and people across the globe. In this course, we will delve into the fundamental concepts, protocols, and technologies that enable communication and data exchange between computers and other devices. 

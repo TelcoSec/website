@@ -56,3 +56,19 @@ plugins:
   - jekyll-seo-tag
   - jekyll-news-sitemap
 
+
+
+
+social:
+  name: TelcoSec
+  links:
+    - https://www.linkedin.com/showcase/telcosec
+
+
+# Images
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/default-card.png

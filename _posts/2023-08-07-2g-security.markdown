@@ -32,3 +32,7 @@ This topic covers the basic architecture of the GSM network, including Base Stat
 ## GSM Call Flow and Signaling
 
 This topic focuses on the call setup, call establishment, and call release procedures in a GSM network. It explains the different signaling channels used, such as the control channels (BCCH, CCCH) and traffic channels (TCH). It also describes the sequence of messages exchanged between the mobile device and the network during various stages of a call, including location updating, mobile originating calls, mobile terminating calls, and handovers.
+
+<div><a href="https://www.linkedin.com/profile/add?startTask=CERTIFICATION_NAME&name=Test%20Certificate&organizationId=1337&issueYear=2018
+&issueMonth=2&expirationYear=2020&expirationMonth=5&certUrl=
+https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fd365-functional-consultant-sales&certId=1234"><img src="https://download.linkedin.com/desktop/add2profile/buttons/en_US.png " alt="LinkedIn Add to Profile button"></a></div>

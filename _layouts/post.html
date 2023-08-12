@@ -9,6 +9,17 @@ layout: default
         <h1 class="post-title" itemprop="name headline">
           {{ page.title }}
         </h1>
+        <div class="post-categories">
+          {% if post %}
+            {% assign categories = post.categories %}
+          {% else %}
+            {% assign categories = page.categories %}
+          {% endif %}
+          {% for category in categories %}
+          <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+          {% unless forloop.last %}&nbsp;{% endunless %}
+          {% endfor %}
+        </div>
         <p class="post-meta">
           <h3 id="1424923"><a href="https://bluehost.sjv.io/c/3259613/1424923/11352">Bug Bounty VPS</a></h3>
           <img height="0" width="0" src="https://imp.pxf.io/i/3259613/1424923/11352" style="position:absolute;visibility:hidden;" border="0" />

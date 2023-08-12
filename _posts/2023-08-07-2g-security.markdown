@@ -4,7 +4,7 @@ title:  "2G Security"
 description: "Ensure comprehensive 2G security for your network with our advanced solutions. Safeguard your legacy infrastructure with robust security measures designed to protect against modern cyber threats and vulnerabilities in the evolving digital landscape."
 date:   2023-08-07 10:00:00 +0530
 image: /images/2g-gsm-security.png
-categories: [Pentesting, Linux]
+categories: [2G, GSM]
 ---
 Linux is a popular and powerful choice for penetration testers and ethical hackers due to its flexibility, customization options, and a wide range of security tools available. Here are a few Linux distributions (distros) specifically designed for penetration testing and ethical hacking purposes:
 

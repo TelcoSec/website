@@ -1,8 +1,8 @@
 # Site settings
-title: TelcoSec Ops - Telecom Security
+title: TelcoSec - Telecom Security
 email: git@telco-sec.com
 description: > # this means to ignore newlines until "baseurl:"
-  Telecom Security Study and Research
+  Enhance your network's protection with TelcoSec, your trusted solution for cutting-edge Telecom Security. Safeguard your telecommunications infrastructure with advanced security measures tailored to the unique challenges of the telecom industry.
   
   
 #baseurl: "/cards" # the subpath of your site, e.g. /blog

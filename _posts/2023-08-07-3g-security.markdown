@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Active Directory for Pentesters"
+title:  "3G UMTS Security"
 categories: Dev
-date:   2023-06-13 10:55:47 +0530
-image: /images/Active-Directory.png
-categories: [Pentesting, Networking]
+date:   2023-08-07 10:00:05 +0530
+image: /images/3g-umts-security.png
+categories: [3G, UMTS]
 ---
 Active Directory (AD) is a centralized directory service developed by Microsoft, widely used by organizations to manage and control access to network resources. 
 It plays a pivotal role in maintaining user accounts, authentication, authorization, and network configurations in Windows-based environments. 

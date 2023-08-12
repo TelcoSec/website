@@ -1,19 +1,12 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-title: PopDocs Cyber Docs
-email: your-email@domain.com
+title: TelcoSec Ops - Telecom Security
+email: git@telco-sec.com
 description: > # this means to ignore newlines until "baseurl:"
   PopDocs is a Free Cyber security content.
   
   
 #baseurl: "/cards" # the subpath of your site, e.g. /blog
-url: "https://popdocs.net/" # the base hostname & protocol for your site
+url: "https://telco-sec.com//" # the base hostname & protocol for your site
 
 #sidebar
 default-image: webjeda-logo-big.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
@@ -23,8 +16,8 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 built-by: rfs
 
 copyright:
-   name: PopDocs
-   link: 'https://popdocs.net/'
+   name: TelcoSec
+   link: 'https://telco-sec.com//'
 
 # Build settings
 permalink: /:title/
